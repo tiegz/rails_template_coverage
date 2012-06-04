@@ -1,0 +1,31 @@
+PATH
+  remote: .
+  specs:
+    rails_template_coverage (1.0)
+      activerecord (~> 3.2)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activemodel (3.2.5)
+      activesupport (= 3.2.5)
+      builder (~> 3.0.0)
+    activerecord (3.2.5)
+      activemodel (= 3.2.5)
+      activesupport (= 3.2.5)
+      arel (~> 3.0.2)
+      tzinfo (~> 0.3.29)
+    activesupport (3.2.5)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
+    arel (3.0.2)
+    builder (3.0.0)
+    i18n (0.6.0)
+    multi_json (1.3.6)
+    tzinfo (0.3.33)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rails_template_coverage!
