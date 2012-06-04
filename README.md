@@ -26,9 +26,3 @@ Output
     ---------------------------------------
     Total: 3 out of 1032
     ---------------------------------------
-
-License
--------
-
-Rails Template Coverage is Copyright © 2012 Tieg Zaharia. It is free software, 
-and may be redistributed under the terms specified in the MIT-LICENSE file.
