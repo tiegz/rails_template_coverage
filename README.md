@@ -17,6 +17,15 @@ Usage
 Output
 ======
 
+    ---------------------------------------
+    Templates not used in functional suite:
+    ---------------------------------------
+      /PathToYourcode/app/views/posts
+      /PathToYourcode/app/views/posts/_show.haml
+      /PathToYourcode/app/views/posts/_show.js.erb
+    ---------------------------------------
+    Total: 3 out of 1032
+    ---------------------------------------
 
 License
 -------
